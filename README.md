@@ -8,10 +8,9 @@
   
   <header>
     <h1>Raga Therapy Blog</h1>
-    .header {
-    background-colour: #AED581;
-    }
   </header>
+  <body style="background-color: #AED581;">
+  </body>
 
   <main>
     <article>
