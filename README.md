@@ -1,8 +1,8 @@
-<!DOCTYPE html>
+
 <html>
 <head>
   <title>Colorful Carnatic Music Blog</title>
-  <link rel="stylesheet" href="styles.css">
+
 </head>
 <body>
 
