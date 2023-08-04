@@ -21,10 +21,7 @@
 Moving into the 17th century, the history of Carnatic music saw-
 </p1>
 
-  <footer>
-    <p>&copy; 2023 Raga Therapy. All rights reserved.</p>
-    
-  </footer>
+
 </body>
 </html>
 
