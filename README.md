@@ -1,7 +1,10 @@
 
 <html>
 <head>
-  <title>Colorful Carnatic Music Blog</title>
+  <title>Raga Therapy Blog</title>
+  .red-title {
+  colour: red;
+}  
 
 </head>
 <body>
