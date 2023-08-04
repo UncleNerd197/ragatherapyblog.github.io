@@ -5,6 +5,12 @@
   
 </head>
 <body>
+   body  {
+     background-clour: #AED581;
+  }
+  .header {
+    background-colour: #AED581;
+    }
 
   <header>
     <h1>Raga Therapy Blog</h1>
