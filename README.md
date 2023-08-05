@@ -29,9 +29,9 @@ Moving into the 17th century, the history of Carnatic music saw-
 <p>Music therapy is a professional and evidence-based practice that uses music as a therapeutic tool to address physical, emotional, cognitive, and social needs of individuals. It is conducted by trained and certified music therapists who have a deep understanding of music and its therapeutic effects.</p>
 <h3>Music Therapy through Carnatic Music</h3>
 <p>
-  a)Music therapy, through utilization of Carnatic music and the principles and elements to promote healing and well-being. It combines the therapeutic benefits of music with the specific aspects of Carnatic music, such as ragas (melodic scales), talas (rhythmic cycles), and compositions.
+  a)Music therapy, through utilization of Carnatic music and the principles and elements to promote healing and well-being. It combines the therapeutic benefits of music with the specific aspects of Carnatic music, such as ragas (melodic scales), talas (rhythmic cycles), and compositions.</p>
   
-  b)In music therapy through Carnatic music, the music therapist works with the client to address physical, emotional, cognitive, or social needs through the use of Carnatic music. The therapist may use a variety of techniques, such as singing, playing instruments, or guided listening, tailored to the individual's needs and goals.</p>
+  <p>b)In music therapy through Carnatic music, the music therapist works with the client to address physical, emotional, cognitive, or social needs through the use of Carnatic music. The therapist may use a variety of techniques, such as singing, playing instruments, or guided listening, tailored to the individual's needs and goals.</p>
 
 
 </body>
