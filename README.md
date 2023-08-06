@@ -9,8 +9,7 @@
   <header>
     <h1 class="underline-h1">Raga Therapy Blog</h1>
   </header>
-  <body style="background-color: #AED581;">
-  </body>
+
 
   <main>
     <article>
