@@ -46,7 +46,22 @@ Moving into the 17th century, the history of Carnatic music saw-
 </p1>
 <p1>Evoking specific feelings and moods within the mind, body and soul of the listener is what Indian music is about, so it is hardly a surprise that the genre lends itself particularly well to therapeutic application. Raags are classified according to the most appropriate time of day to be played and to the predominant rasa or emotion that they evoke.</p1>
 <p1>The effect of a raga on the physical body is said by some to be due to the link between certain sounds and frequencies with the chakras, the seven energy centres of the body. Just as with ragas, each chakra has a specific associated colour and various attributes. For instance, the Nabhi chakra which governs the solar plexus and stomach area is said to be aided by Abhogi , Malkauns/Hindolam, and Bhimpalasai. It is said the chakra is cleansed by these ragas, aiding the physical body, for example, with digestion as well as bringing about a change of attitudes and inner transformation and helping to give up vices and compulsive habits.</p1>
-<h3>Types of MUsic Therapy
+<h3>Types of Music Therapy</h3>
+<p>Therapy is a broad term used to describe a range of treatments and interventions aimed at improving a person's mental, emotional, or physical health. Therapy typically involves a trained professional who works with an individual or group to identify and address specific problems or concerns.</p>
+<p>There are many different types of therapy, each with their own unique approaches and techniques. Some of the most common types of therapy include:
+</p>
+<p>1. Psychotherapy: A type of talk therapy that involves working with a mental health professional to identify and address emotional and psychological issues.
+</p>
+<p>2. Cognitive-behavioral therapy: A type of therapy that focuses on changing negative thoughts and behaviors and replacing them with more positive ones.
+</p>
+<p>3. Family therapy: A type of therapy that involves working with families to address and resolve interpersonal issues and improve communication.
+</p>
+<p>4. Group therapy: A type of therapy that involves working with a group of people who share similar issues or concerns.
+</p>
+<p>5. Physical therapy: A type of therapy that involves exercises and other interventions aimed at improving physical functioning and mobility.
+</p>
+<p>Therapy can be beneficial for a wide range of issues, including mental health conditions, chronic pain, and physical injuries or illnesses. Overall, therapy is a valuable tool for improving overall health and well-being and can help individuals live happier and more fulfilling lives.</p>
+
 </body>
 </html>
 
