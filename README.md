@@ -22,7 +22,7 @@
 Moving into the 17th century, the history of Carnatic music saw-
 </p>
 
-<img src=ragatherapyblog.github.io/swarajya_2021-02_360677e0-6edf-4d7f-9604-5b12e8d383d5_C41850ED_C004_4164_9F43_6D43F64577EB.png alt="Purandara>
+<img src=ragatherapyblog.github.io/swarajya_2021-02_360677e0-6edf-4d7f-9604-5b12e8d383d5_C41850ED_C004_4164_9F43_6D43F64577EB.png alt="Purandara">
 
 <h3>Trinities of Carnatic Music</h3>
 <p>The birth of the Musical Trinity – Tyagaraja, Muthuswami Dikshitar and Syama Sastri – at Tiruvarur between the years 1750 to 1850 A.D. ushered in an era of dynamic development in Carnatic music. The Trinity were not only contemporaries among themselves but, also contemporaries of great composers of Western Music, as Beethoven, Mozart, Wagner and Haydn. It was the ‘Golden Age’ of music throughout the world. Carnatic music reached its pinnacle of artistic excellence during this period.
